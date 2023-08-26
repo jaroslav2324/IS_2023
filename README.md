@@ -5,5 +5,6 @@ Solutions for tasks connected with basic image processing, interfaces, KNN.
 
 For example, lab5 looks like:
 
-![image](https://github.com/jaroslav2324/IS_2023/assets/94970404/af834365-05ff-418c-ace2-d46a9fb2ff73)
+![image](https://github.com/jaroslav2324/IS_2023/assets/94970404/60096f89-1113-4303-96ef-b414afe26990)
+
 
